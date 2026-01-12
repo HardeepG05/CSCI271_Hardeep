@@ -1,6 +1,6 @@
 // CSCI 27X - GitHub Upload Practice
-// Name: YOUR NAME
-// Section: YOUR SECTION
+// Name: Hardeep Grewal
+// Section: CSCI271/0995
 
 #include <iostream>
 using namespace std;
